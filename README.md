@@ -1,8 +1,12 @@
 *****************************************
 Class: CS - 230
+
 Language: Java
+
 Version: 1.0
-Project: Module 2 - The Game Room app 
+
+Project: Module 2 - The Game Room app
+
 Author: Torrey Meade
 *****************************************
 
